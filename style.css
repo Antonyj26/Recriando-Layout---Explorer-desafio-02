@@ -15,12 +15,14 @@ nav {
   display: flex;
   justify-content: space-between;
   margin-bottom: 97px;
+  align-items: center;
 }
 
 ul {
   list-style: none;
   display: flex;
   gap: 64px;
+  line-height: 28px;
   font-size: 14px;
   color: #ffffff;
 }
@@ -51,7 +53,7 @@ section p {
   width: 604px;
   height: 108px;
   font-family: "Open Sans", sans-serif;
-  color: #ffffff;
+  color: #c2c2c2;
   line-height: 28px;
   font-size: 16px;
   margin-bottom: 161px;
